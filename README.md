@@ -1,9 +1,6 @@
 # VidSTR-E2E-Tests
-protractor end-to-end tests for the website vidstr
+A set of protractor end-to-end tests to help regression test the website vidstr.
 
-## E2E Protractor Tests 
-
-A set of End-to-End protractor tests to help regression tests an angular.js website.
 
 ## The Basic: Set up Protractor
 For more in-depth information about how to install protractor visit the protractor official website, which can be located [here] (http://www.protractortest.org/#/) 
